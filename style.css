@@ -1,0 +1,20 @@
+body{
+  background: url(http://static1.squarespace.com/static/547d3a0fe4b009320b6915e1/t/54c7465be4b080f91c82df1f/1422345819989/Bar+35_hero_06+top+bar.jpg) no-repeat center fixed;
+  background-size: cover;
+  padding-top: 50px;
+}
+.ui.borderless.topmenu {
+  border: none;
+  background: none;
+  box-shadow: none;
+
+}
+p{
+  color:white;
+  padding-top: 10px;
+  font-size:30px;
+
+
+
+
+}
